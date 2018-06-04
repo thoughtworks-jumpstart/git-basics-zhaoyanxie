@@ -23,6 +23,8 @@ Other useful commands to see what is going on the git repository:
 - [ ] Open the repository on GitHub and make changes to `newfile.txt`
 - [ ] Pull the changes to your local repository
 
-## Discuss
 
-What is the difference between `add`, `commit`, and `push`?
+
+Additional of new line.
+
+Test test.
