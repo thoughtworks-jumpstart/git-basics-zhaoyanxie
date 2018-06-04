@@ -30,3 +30,5 @@ Additional of new line.
 Test test.
 
 Some more changes (2).
+
+Changes added from github.
