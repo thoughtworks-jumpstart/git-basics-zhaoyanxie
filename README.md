@@ -28,3 +28,5 @@ Other useful commands to see what is going on the git repository:
 Additional of new line.
 
 Test test.
+
+Some more changes (2).
