@@ -1,1 +1,2 @@
-Newline 1
+
+Update new file
